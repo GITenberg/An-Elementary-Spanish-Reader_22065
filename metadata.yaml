@@ -1,0 +1,28 @@
+_repo: An-Elementary-Spanish-Reader_22065
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harrison, Earl Stanley
+    birthdate: 1871
+    gutenberg_agent_id: '25072'
+    url: http://www.gutenberg.org/2009/agents/25072
+description: ''
+gutenberg_bookshelf:
+- Language Education
+- Children's Instructional Books
+gutenberg_issued: '2007-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22065'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish language -- Readers'
+- !lcc 'PC'
+title: An Elementary Spanish Reader
+url: http://www.gutenberg.org/ebooks/22065
